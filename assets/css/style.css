@@ -524,8 +524,8 @@ section .container {
 }
 
 .interests .icon-box i {
-  font-size: 10px;
-  padding-right: 30px;
+  font-size: 20px;
+  padding-right: 10px;
   line-height: 1;
 }
 
