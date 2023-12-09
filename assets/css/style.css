@@ -88,7 +88,7 @@ h6 {
 }
 
 #header h2 span {
-  color: #000000;
+  color: #006400;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
@@ -258,7 +258,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color:  #fff;
+  color:  #006400;
 }
 
 /**
