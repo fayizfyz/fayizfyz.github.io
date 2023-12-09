@@ -518,13 +518,13 @@ section .container {
 .interests .icon-box {
   display: flex;
   align-items: center;
-  padding: 100px;
+  padding: 20px;
   background: rgba(255, 255, 255, 0.08);
   transition: ease-in-out 0.3s;
 }
 
 .interests .icon-box i {
-  font-size: 20px;
+  font-size: 28px;
   padding-right: 10px;
   line-height: 1;
 }
