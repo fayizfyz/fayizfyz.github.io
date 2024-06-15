@@ -108,8 +108,9 @@ h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(255, 255, 255, 0.1);
-  color: #FFFFFF;
+  /*background: rgba(255, 255, 255, 0.1);*/
+  background: #FFFFFF;
+  color: #000000;
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
